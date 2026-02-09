@@ -50,7 +50,7 @@ duration
 
 FROM songs_masters_list;
 ```
-![image of song list data](/images\1_image.PNG)
+![image of song list data](/images/1_image.PNG)
 
 
 *image showing the song list with the corresponding meta data*
@@ -66,7 +66,7 @@ This query shows the project table
 SELECT *
 FROM project;
 ```
-![image of project list](images\2_image.PNG)
+![image of project list](images/2_image.PNG)
 
 
 *image showing the project list*
@@ -101,7 +101,7 @@ youtube_url
 
 FROM platform_tracking;
 ```
-![image of tracking list](images\3_image.PNG)
+![image of tracking list](images/3_image.PNG)
 
 
 *image showing the tracking list table*
